@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gspread-email-update",
+  "private_key_id": "8f96750af0e9dc74f16d9a034afa2464b1e44857",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtE9OoXkOql2dC\nmAxDioHJDHF3Ucmc4/n5QXdtSqnA3h6FxTXy/pLfu6yIknUxuWpyp5jMd6+GRjFi\n2ZIw3IF3B/qmSuRsL1YmB7k5149nNVllMAm9gC5UbuEEjcY2hhaF4QLuHuQr0DTb\n6ZhEshh1Ewb1FWjWyhHRgQpSkRJs/7QYVH0GsJwIWN5wtQDp7vxJp/B1GvmDa3PC\nLp1gVvhRA/2xByU1zR9lXf2tCwbSmW7NF0xcMr5PHdFBgt2QHi2CaY3O6zyY11yf\nIwWnP+x2lLCEpCwHQP+E+CMDu3RGmBD/d4+83Qsx7oPRev/W0YEvlAC/wrhUQfD5\nIidANNhVAgMBAAECggEAOfsxZe8mVgjgk+OiACJvdi3P+TwSAZgyDvmKi7d+hNkk\neoXlm+ECzSbvFtWRozXNXlmdC6pwx9fOBaKDohDM4lZu9rSSL1fwUU83ExSOuvGZ\nYBemu7AsVSbMBR2FsJBdDT6jH6iDodXfT2jDFQhgvx+/re0dMQ+Cxp+nGJ/2/0Jg\nRXBseaytYB8eVAQbEXtjsNBpCFtHT3hArQetZ5Cbi7cvY4iLzZYiLyHtiT+oudvA\nYZsmynFklTqk2jTbfzrq0C7nSY081Dd5aqxKNt/yzMO39vvagRcCwuxUk6yhmX1R\nBfl6ynu39Z2WfREPkepdAtUhEjAOxLWid8zizCyfZQKBgQDtMZixeqWC49T6BUzc\nit857hb/sRwPSAfE6zTiTB5lCOdqOthOjry76eKKRgI89R4HN7kaPqWcDoz3N2lO\n/uxnS/lUINU3WSpp54puW0TOlSPcyTWu4V4+CgfzysM0zND3iyzsqQPk6DR6+N9o\nWGA+O5yh89jSg8lq+lmoMl501wKBgQC6zNb822CvAIapgrXkMsVOhdJVL6Okh7jk\n5KkVa2SCfLnEInmcjFbshZEngQvGGsM3kv6luDLWOGmmLTNRWZr44wNKRGdDsg8J\nwYuvOL1bOnXeEQsCh6OVHSdvtxKP1iOm+Iwok2S0m9Hj4Cg907/UM7YHD7df4Ez4\nb2eyqVVKswKBgQDAMTLHhFh+QXu+BvNrtH8CIqCyGGFjJHtfHTKhtwnd1iQlGH9S\n0Cevn+j3H5kKqZbmREmRMXfhhozEeDq1TqxhWtcxStVZXr+WRo4Ns5iCR6hiaws7\no9NIM7qT2RTpQJiGLFh/fsfwABMeHXBwzUNWydi2Ba8HjM91BlwFhKKyywKBgEYW\nwbvSXG6NVfmYT8M1wY5667aGz3HWcut/WGnvB6FmRxVukg7JIXxRiWs3IkHMnN7n\nSqDHgluagxmU8CJf6qPkGcHt9IkT8EyK0GyIb5QhVURjRKxIVHqIm9lw6YgKownt\nTDmVRD34EULdQnwgTWPDm1L+9KEGuhqlQlVo79W9AoGAYq6JPoxZQH/uRYYc3vMe\ng6pmlyMXxeddJeXJVtowQhyynkTVi7VXlIUiR3ui2MPputSzbHMvulP2apaoZY5+\naLl/WixIIy+pTJuviNUTY0oOi03RG6CyimbJXtS6oBEFK9dhFS1jALTXWTiKmccc\nel+9wP8d9aFe3I24MeUY/Hs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-service-account@gspread-email-update.iam.gserviceaccount.com",
+  "client_id": "102396921754234413810",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-service-account%40gspread-email-update.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
