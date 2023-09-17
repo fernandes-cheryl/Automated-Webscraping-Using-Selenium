@@ -46,18 +46,18 @@ Automate webscraping for top 10 trending videos on Youtube using Selenium and se
   URL for Webscraping: https://www.youtube.com/feed/trending
 
   ## References:
-  For updating the gpead sheet: 
+  For updating the gpead sheet:  
   https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/
   
-  To send DataFrame as a CSV file
+  To send DataFrame as a CSV file  
   https://saturncloud.io/blog/how-to-send-pandas-dataframe-using-python/
 
-  To export DataFrame to Google sheets
-  https://saturncloud.io/blog/how-to-export-pandas-dataframe-to-google-sheets-using-python/
+  To export DataFrame to Google sheets  
+  https://saturncloud.io/blog/how-to-export-pandas-dataframe-to-google-sheets-using-python/  
   https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/
 
-  To Deploy Python Selenium Script in AWS Lambda
+  To Deploy Python Selenium Script in AWS Lambda  
   https://www.youtube.com/watch?v=b49Y3NGJX68
 
-  To Install Pandas on AWS Lambda Function
+  To Install Pandas on AWS Lambda Function  
   https://www.youtube.com/watch?v=1UDEp90S9h8
