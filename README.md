@@ -45,4 +45,4 @@ Automate webscraping for top 10 trending videos on Youtube using Selenium and se
 
   ## References:
     [For updating the gpead sheet]
-    https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/
+    (https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/)
