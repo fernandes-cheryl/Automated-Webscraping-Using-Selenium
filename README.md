@@ -51,6 +51,7 @@ Automate webscraping for top 10 trending videos on Youtube using Selenium and se
 
   To export DataFrame to Google sheets
   https://saturncloud.io/blog/how-to-export-pandas-dataframe-to-google-sheets-using-python/
+  https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/
 
   To Deploy Python Selenium Script in AWS Lambda
   https://www.youtube.com/watch?v=b49Y3NGJX68
