@@ -10,7 +10,7 @@ Automate webscraping for top 10 trending videos on Youtube using Selenium and se
   * Replit     
     For the development stage (code is developed here)
     
-  * Selenium
+  * Selenium  
     Used to scrape the youtube website for trending video details
     
   * AWS Lambda
