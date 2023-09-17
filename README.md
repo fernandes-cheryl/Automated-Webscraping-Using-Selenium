@@ -7,7 +7,7 @@ Automate webscraping for top 10 trending videos on Youtube using Selenium and se
   3. Send the results as a CSV attachment over email and to a spreadsheet.
 
 ## Tools and services used:
-  * Replit
+  * Replit  
     For the development stage (code is developed here)
     
   * Selenium
