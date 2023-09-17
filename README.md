@@ -1,5 +1,5 @@
 # Automated-Webscraping-Using-Selenium
-Automate webscraping for top 10 trending videos on Youtube using Selenium and set up a recurring job using AWS Lambda.
+Automate webscraping for top 10 trending videos on Youtube using Selenium and set up a recurring job to send data via email using python on AWS Lambda.
 
 ## Objective:
   1. Scrape top 10 trending videos on YouTube using Selenium.
