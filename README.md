@@ -40,7 +40,10 @@ Automate webscraping for top 10 trending videos on Youtube using Selenium and se
   4. Send results over email using SMTP and MIME  
     * Create email client using smtplib  
     * Set up SSL, TLS and authenticate with password  
-    * Send an email with text and attachment (csv file)  
+    * Send an email with text and attachment (csv file)
+
+  ## Data Used:
+  URL for Webscraping: https://www.youtube.com/feed/trending
 
   ## References:
   For updating the gpead sheet: 
