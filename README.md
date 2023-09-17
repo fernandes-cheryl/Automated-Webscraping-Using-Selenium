@@ -20,7 +20,6 @@ Automate webscraping for top 10 trending videos on Youtube using Selenium and se
     These libraries are used for sending csv files and details over email
 
   ## Process:
- 
     1. Create and launch a repository on Replit
       * Connect Replit with your GitHub account
       * Launch the repository as a Replit project
