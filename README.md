@@ -20,27 +20,27 @@ Automate webscraping for top 10 trending videos on Youtube using Selenium and se
     These libraries are used for sending csv files and details over email
 
   ## Process:
-    1. Create and launch a repository on Replit
-      * Connect Replit with your GitHub account
-      * Launch the repository as a Replit project
-      * Set up the language and run command
-      * Create and execute a Python script
-        
-    2. Extract information using Selenium
-      * Install selenium and create a browser driver
-      * Load the page and extract information
-      * Create a CSV of results using Pandas
-        
-    3. Set up a recurring job on AWS Lambda
-      * Create an AWS Lambda Python function
-      * Deploy the python script created on replit
-      * Add layers for Selenium and Chromium and additional modules used
-      * Set up recurring job using AWS CloudWatch
-        
-    4. Send results over email using SMTP and MIME
-      * Create email client using smtplib
-      * Set up SSL, TLS and authenticate with password
-      * Send an email with text and attachment (csv file)
+  1. Create and launch a repository on Replit
+    * Connect Replit with your GitHub account
+    * Launch the repository as a Replit project
+    * Set up the language and run command
+    * Create and execute a Python script
+      
+  2. Extract information using Selenium
+    * Install selenium and create a browser driver
+    * Load the page and extract information
+    * Create a CSV of results using Pandas
+      
+  3. Set up a recurring job on AWS Lambda
+    * Create an AWS Lambda Python function
+    * Deploy the python script created on replit
+    * Add layers for Selenium and Chromium and additional modules used
+    * Set up recurring job using AWS CloudWatch
+      
+  4. Send results over email using SMTP and MIME
+    * Create email client using smtplib
+    * Set up SSL, TLS and authenticate with password
+    * Send an email with text and attachment (csv file)
 
   ## References:
   [For updating the gpead sheet]
